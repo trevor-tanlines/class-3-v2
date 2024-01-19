@@ -2,6 +2,6 @@
 
 ## Description
 Examples using
--useEffect
--UseState
-_setInterval
+- useEffect
+- useState
+- setInterval
